@@ -1,0 +1,39 @@
+header{
+    background-color: #ffccea94;
+    text-align: center;
+    padding: 12px;
+}
+body {
+    background-color: rgb(156, 209, 255);
+    background-image: url(RS.jpeg);
+    background-size: cover;
+    background-position: center;
+    margin: 0;
+    padding: 0;
+    color: rgb(0, 0, 0);
+}
+#atas{
+    background-color: #ffccea94;
+    text-align: center;
+    display: flex;
+    justify-content: space-between;
+    margin: 20px;
+    padding: 12px;
+}
+#atas2{
+    background-color: #ffccea94;
+    text-align: center;
+    margin: 20px;
+    padding: 12px;
+}
+#foto{
+    background-color:#ffffff9a;
+    text-align: center;
+    margin: 20px;
+}
+footer {
+    background-color: rgba(255, 185, 243, 0.456);
+    color: rgb(0, 0, 0);
+    text-align: center;
+    padding: 10px;
+}
